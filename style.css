@@ -55,3 +55,7 @@ button {
   border-radius: 5px;
   cursor: pointer;
 }
+
+button:active {
+  background-color: #9a680d;
+}
